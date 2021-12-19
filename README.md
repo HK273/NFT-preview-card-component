@@ -20,7 +20,7 @@ NFT card design
 ### Links
 
 - [Solution URL]()
-- [Live Site URL]()
+- [Live Site URL](https://hk273.github.io/NFT-preview-card-component/)
 
 ### Built with
 
