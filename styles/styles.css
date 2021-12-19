@@ -104,8 +104,8 @@ main {
 .card:hover {
     cursor: pointer;
     /* opacity: 0.6; */
-    transition: transform .2s;
-    transform: scale(1.02);
+   /* transition: transform .2s;/*
+   /* transform: scale(1.02);/*
     box-shadow: 0 2px 10px 0 rgb(41, 214, 241);
 }
 
