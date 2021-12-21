@@ -19,7 +19,7 @@ NFT card design
 
 ### Links
 
-- [Solution URL]()
+- [Solution URL](https://www.frontendmentor.io/solutions/nft-card-OpOeLxrja#comment-61c0c9e600258a1fd408634f)
 - [Live Site URL](https://hk273.github.io/NFT-preview-card-component/) - Some issues with content in Safari
 
 ### Built with
